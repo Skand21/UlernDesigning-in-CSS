@@ -1,0 +1,7 @@
+C:\Users\art12\Desktop\Download\_Photoshop\bin\Debug\cat.jpg
+C:\Users\art12\Desktop\Download\_Photoshop\bin\Debug\MyPhotoshop.exe
+C:\Users\art12\Desktop\Download\_Photoshop\bin\Debug\MyPhotoshop.pdb
+C:\Users\art12\Desktop\Download\_Photoshop\obj\x86\Debug\Photoshop.csproj.AssemblyReference.cache
+C:\Users\art12\Desktop\Download\_Photoshop\obj\x86\Debug\Photoshop.csproj.CoreCompileInputs.cache
+C:\Users\art12\Desktop\Download\_Photoshop\obj\x86\Debug\MyPhotoshop.exe
+C:\Users\art12\Desktop\Download\_Photoshop\obj\x86\Debug\MyPhotoshop.pdb
