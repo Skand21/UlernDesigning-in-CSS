@@ -7,14 +7,5 @@ namespace MyPhotoshop
 {
     public class EmptyParameters : IParameters
     {
-        public ParameterInfo[] GetDescriptions()
-        {
-            return new ParameterInfo[0];
-        }
-
-        public void SetValues(double[] values)
-        {
-
-        }
     }
 }
